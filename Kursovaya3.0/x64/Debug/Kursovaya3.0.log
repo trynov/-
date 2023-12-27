@@ -1,0 +1,7 @@
+﻿  Kursovaya3.0.c
+E:\Проекты Visual Studio\Kursovaya3.0\Kursovaya3.0.c(175,9): warning C4033: "save_in_file" должен возвращать значение
+E:\Проекты Visual Studio\Kursovaya3.0\Kursovaya3.0.c(193,9): warning C4033: "from_file" должен возвращать значение
+E:\Проекты Visual Studio\Kursovaya3.0\Kursovaya3.0.c(205): warning C4716: from_file: должна возвращать значение
+E:\Проекты Visual Studio\Kursovaya3.0\Kursovaya3.0.c(168): warning C4716: add_company: должна возвращать значение
+E:\Проекты Visual Studio\Kursovaya3.0\Kursovaya3.0.c(186): warning C4716: save_in_file: должна возвращать значение
+  Kursovaya3.0.vcxproj -> E:\Проекты Visual Studio\Kursovaya3.0\x64\Debug\Kursovaya3.0.exe
